@@ -1,0 +1,107 @@
+*{margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    width: 100%;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/101/380/61/cat-animals-bokeh-cute-wallpaper-preview.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 1500px;
+    background-repeat: repeat;
+
+}
+.menu{
+width: 500px;
+float: left;
+height: 70px;
+}
+
+ul{
+    float: top;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 100px;
+    margin-right: 60px;
+    font-size: 17px;
+    text-align: center;
+
+
+}
+ul li{
+ display: inline-block;
+
+}
+ul li a{
+    float: top;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 5px 20px;
+    border: 5px solid #080808;
+    text-align: center;
+   position: relative;
+
+
+
+}
+ul li a:hover{
+    color: rgb(233, 233, 242);
+    background-color: rgb(88, 214, 193);
+    transition: 0.5s;
+
+}
+br
+br
+br
+.container{
+    max-width: 1200px;
+    margin: auto;
+    background: #0c0c0c;
+    overflow: auto;
+}
+.gallery{
+    margin: 5px;
+    border: 10px solid #000000;
+    float: left;
+    width: 390px;
+    background: #000000;
+
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+    margin-inline: auto;
+    float: top;
+    object-position: top;
+}
+.desc{
+    padding: 20px;
+    text-align: center;
+    text color: border: display: left: top: ;;;;o
+    ;;
+   
+    
+}
+.nav{
+    position: relative;
+    margin: 270px auto 0;
+    width: 590px;
+    height: 50px;
+    background: #000000;
+    border-radius: 8px;
+    font-size: 0;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 1);
+
+}
+li::marker{
+   font-size: 500%  ;
+   color: rgb(255, 255, 255);
+   vertical-align: bottom;
+   text-size-adjust: 100%;
+  line-height: 50px;
+padding: 5px;
+align-items: center;
+
+}
